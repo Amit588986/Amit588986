@@ -1,7 +1,7 @@
 ### Here is what i am working on!! 👋
 
 <!--
-**Amit588986/Amit588986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amit588986/Amit588986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...amit588986@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
