@@ -12,4 +12,4 @@ Here is what i am working on!! 👋
 - 😄 Pronouns: AMIT(Its's obvious.)<br>
 - ⚡ Fun fact: I'm not a cs grad<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amit588986&&show_icons=true&title_color=FFFFFF&icon_color=26E639&text_color=FFFFFF&bg_color=eb5a6d"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amit588986&&show_icons=true&title_color=FFFFFF&icon_color=77A0BE&text_color=FFFFFF&bg_color=eb5a6d"/>
