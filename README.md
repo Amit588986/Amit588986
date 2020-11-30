@@ -15,4 +15,4 @@
 - ⚡ Fun fact: I'm not a cs grad<br>
 </html>
 
-<img src="https://github-readme-stats.vercel.app/api?username=grvkmrpandit&&show_icons=true&title_color=ffffff&icon_color=26E639&text_color=FFFFFF&bg_color=eb5a6d"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amit588986&&show_icons=true&title_color=ffffff&icon_color=26E639&text_color=FFFFFF&bg_color=eb5a6d"/>
