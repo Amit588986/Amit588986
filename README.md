@@ -13,3 +13,5 @@ Here is what i am working on!! 👋
 - ⚡ Fun fact: I'm not a cs grad<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amit588986&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=7F98BDD7"/>
+<br><br>
+<img align="left" src = "https://profile-counter.glitch.me/Amit588986/count.svg" alt ="Loading">
