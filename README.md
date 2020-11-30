@@ -6,10 +6,8 @@
 Here are some ideas to get you started:<br><br>
 
 - 🔭 I’m currently working on APPOINTO<br>
-- 🌱 I’m currently learning KOTLIN<br>
-- 👯 I’m looking to collaborate on <br>
-- 🤔 I’m looking for help with<br>
-- 💬 Ask me about ...<br>
+- 🌱 I’m currently learning ANDROID<br>
+- 👯 I’m looking to collaborate on Material Predictor<br>
 - 📫 How to reach me: amit588986@gmail.com<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
+- 😄 Pronouns: AMIT(Its's obvious.)<br>
+- ⚡ Fun fact: I'm not a cs grad<br>
