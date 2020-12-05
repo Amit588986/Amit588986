@@ -17,6 +17,7 @@ Here is what i am working on!! 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amit588986&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=7F98BDD7"/>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit588986&layout=compact)](https://github.com/ggomaeng)<br>
 
 VISITORS COUNT<br><br>
 <img align="left" src = "https://profile-counter.glitch.me/Amit588986/count.svg" alt ="Loading">
