@@ -9,7 +9,7 @@ Here is what i am working on!! 👋
 - 🌱 I’m currently learning ANDROID<br>
 - 👯 I’m looking to collaborate on Material Predictor<br>
 - 📫 How to reach me: amit588986@gmail.com<br>
-- 😄 Pronouns: AMIT(Its's obvious.)<br>
+- 😄 Pronouns: Pacesetter<br>
 - ⚡ Fun fact: I'm not a cs grad<br><br>
 <a href="https://www.linkedin.com/in/amit-kumar-sharma-04591019a/"><img src="https://github.com/Amit588986/Amit588986/blob/main/linkedin.png" height="50" width="50"></img></a>
 <a href="https://www.facebook.com/profile.php?id=100008156222410"><img src="https://github.com/Amit588986/Amit588986/blob/main/fb.png" height="50" width="50"></img></a>
